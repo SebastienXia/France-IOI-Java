@@ -15,7 +15,7 @@
 ## Niveau 3
 ## Niveau 4
 
-> Si ça t'as aidé n'oublie pas de mettre un petite étoile sur le **repo** pour ne pas le perdre la prohaine fois -_-
+### ⭐ Si ça t'as aidé n'oublie pas de mettre une petite étoile sur le **repo** pour ne pas le perdre pour la prohaine fois ⭐
 
 ## ⚖️ Licence
 
