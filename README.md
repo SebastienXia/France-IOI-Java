@@ -17,7 +17,8 @@
 ## [Niveau 1](Niveau-1)
 |Contenu|
 |----|
-|[1 – Affichage de texte, suite d'instructions](https://github.com/SebastienXia/France-IOI-Java-Corrections/tree/main/Niveau-1/1%20%E2%80%93%20Affichage%20de%20texte%2C%20suite%20d'instructions)|
+|[1 – Affichage de texte, suite d'instructions](Niveau-1/1_Affichage_de_texte_suite_d'instructions)|
+|[2 - Répétition d'instructions](Niveau-1/2_Répétitions_d_instructions)|
 
 ## Niveau 2
 ## Niveau 3
