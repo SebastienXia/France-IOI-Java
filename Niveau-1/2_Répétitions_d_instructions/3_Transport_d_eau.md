@@ -4,6 +4,10 @@ Nous avons à disposition plusieurs opérations `gauche()`, `droite()`, `ramasse
 Nous devons faire en sorte que le robot va rammaser le bac d'eau en disant avant de le ramasser `"Bonjour, laissez-moi vous aider"` puis aller jusqu'à sa maison qui se situe à 32 cases à partir de l'endroit où il a ramassé le bac d'eau,
 sans toucher les murs au extrémité de l'image.
 
+----
+
+> Condition à respecter :  Votre programme ne doit pas faire plus d'une vingtaine de lignes. 
+
 ```Java
 import static algorea.Robot.*;
 
