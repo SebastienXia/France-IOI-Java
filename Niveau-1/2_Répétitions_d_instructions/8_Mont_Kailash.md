@@ -1,6 +1,6 @@
 # 8. Mont Kailash
 
-<img src="Niveau-1/2_Répétitions_d_instructions/ressources/tourMont.png">
+<img src="ressources/tourMont.png">
 
 Dans cet exercice, notre robot doit faire 108 fois le tour du Mont Kailash représenté par l'image ci-dessus, -> opérations `haut();`, `bas();`, `gauche();`, `droite();` et avec l'importation de `import static algorea.Robot.*;`
 
