@@ -1,6 +1,8 @@
 # 3. Transport d'eau
+
 <img src="ressources/rue.png">
-Nous avons à disposition plusieurs opérations `gauche()`, `droite()`, `ramasser()`, `deposer()` et avec l'importation du `import static algorea.Robot.*;`
+
+Nous avons à disposition plusieurs opérations ` gauche() ` , `droite()`, `ramasser()`, `deposer()` et avec l'importation du `import static algorea.Robot.*;`
 Nous devons faire en sorte que le robot va rammaser le bac d'eau en disant avant de le ramasser `"Bonjour, laissez-moi vous aider"` puis aller jusqu'à sa maison qui se situe à 32 cases à partir de l'endroit où il a ramassé le bac d'eau,
 sans toucher les murs au extrémité de l'image.
 
