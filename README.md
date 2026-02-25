@@ -19,10 +19,13 @@
 |----|
 |[1 – Affichage de texte, suite d'instructions](Niveau-1/1_Affichage_de_texte_suite_d'instructions)|
 |[2 - Répétition d'instructions](Niveau-1/2_Répétitions_d_instructions)|
+|[3 - 3 – Calculs et découverte des variables](Niveau-1/3_Calculs_et_decouverte_des_variables)|
 
 ## Niveau 2
 ## Niveau 3
 ## Niveau 4
+## Niveau 5
+## Niveau 6
 
 ### ⭐ Si ce dépôt t'aide à progresser ou à te débloquer, n'hésite pas à laisser une étoile ! Cela permet de rendre le projet plus visible pour d'autres étudiants ⭐
 
